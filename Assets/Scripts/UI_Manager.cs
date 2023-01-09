@@ -464,7 +464,7 @@ public class UI_Manager : MonoBehaviour
             installationRecGalleryObj.SetActive(false);
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
-
+            Product_Img_Gallery.SetActive(false);
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
             features_Btn.image.sprite = features_Btn_W;
@@ -504,6 +504,9 @@ public class UI_Manager : MonoBehaviour
             Mrp_price.SetActive(false);
             actInsGallery.SetActive(false);
             functionality.SetActive(false);
+            Product_Img_Gallery.SetActive(false);
+            installationRecGalleryObj.SetActive(false);
+
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
             features_Btn.image.sprite = features_Btn_W;

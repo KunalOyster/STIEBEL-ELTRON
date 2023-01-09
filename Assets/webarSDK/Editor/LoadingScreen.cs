@@ -50,6 +50,7 @@ public class LoadingScreen : EditorWindow
     string progress_ring_color;
     string progress_ring_line_width;
 
+ 
     string alert_border_color;
     string alert_border_width;
     string alert_background_color;
@@ -174,6 +175,8 @@ public class LoadingScreen : EditorWindow
             progress_ring_scale = selectedScreenData.progress_ring_scale;
             progress_ring_color = selectedScreenData.progress_ring_color;
             progress_ring_line_width = selectedScreenData.progress_ring_line_width;
+
+
 
             alert_border_color = selectedScreenData.alert_border_color;
             alert_border_width = selectedScreenData.alert_border_width;
@@ -376,6 +379,9 @@ public class LoadingScreen : EditorWindow
         logo_height = GUILayout.TextField(logo_height);
         GUILayout.EndHorizontal();
         GUILayout.Space(5);
+
+
+
 
         GUILayout.BeginHorizontal();
         GUILayout.Label("Progress Dot Ring Scale", /*EditorStyles.boldLabel,*/ GUILayout.MaxWidth(216));
@@ -874,6 +880,7 @@ public class LoadingScreen : EditorWindow
         dataToSave.progress_ring_scale = progress_ring_scale;
         dataToSave.progress_ring_color = progress_ring_color;
         dataToSave.progress_ring_line_width = progress_ring_line_width;
+
 
         dataToSave.alert_border_color = alert_border_color;
         dataToSave.alert_border_width = alert_border_width;
