@@ -16,18 +16,18 @@ public class OnlineVideoLoader : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        if (Input.anyKey)
-        {
-            Play();
-        }
+    //void Update()
+    //{
+    //    if (Input.anyKey)
+    //    {
+    //        Play();
+    //    }
 
-    }
+    //}
 
-    void Play()
-    {
+   public void Play()
+   {
         vidplayer.Play();
         vidplayer.isLooping = true;
-    }
+   }
 }
