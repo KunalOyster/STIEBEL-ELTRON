@@ -3,7 +3,137 @@ guid: 2adb687fceaa94b428c4f0f162589578
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929473
+    second: {fileID: 2100000, guid: 4a0afea3a5406f44f9d56952ecc68150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929475
+    second: {fileID: 2100000, guid: c2ae33123f6a0dd4f9ba135efae660c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929477
+    second: {fileID: 2100000, guid: 80791be596c3ba1469d67d72675dfe30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929478
+    second: {fileID: 2100000, guid: d8591ecadbaf96e439efe3967bbfd48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929480
+    second: {fileID: 2100000, guid: 4c35a200d3dbaca4b86bf161b38fa578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929481
+    second: {fileID: 2100000, guid: ed52fddb9a4000442be47f9c7e7ee25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929656
+    second: {fileID: 2100000, guid: 1bb2664172c7435449ab9cbf8d194e14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2146929657
+    second: {fileID: 2100000, guid: edbe035b2633cc14386df9e4c09c3e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #67
+    second: {fileID: 2100000, guid: af846910500459e429f9bc9a1773cf80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #69
+    second: {fileID: 2100000, guid: 28287e7cecf6b214fb34fff7055c9b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #70
+    second: {fileID: 2100000, guid: 3cadcfd5ed455154685faf0b1953be9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #72
+    second: {fileID: 2100000, guid: 17c070eca4987c844bcf382cc44d555e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #74
+    second: {fileID: 2100000, guid: 183bf514b6b1c3a479df4d6d18a07446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #76
+    second: {fileID: 2100000, guid: a2ae0811bcc721e4aa32a96b8cc4c944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #77
+    second: {fileID: 2100000, guid: 8084b1b089d521b4281db215252c6aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #78
+    second: {fileID: 2100000, guid: 66e215c5bb3962d43a87637792784cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #80
+    second: {fileID: 2100000, guid: 76cd9f6a93b961e488c87d4c2e78ddee, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: POST CARBON
+    second: {fileID: 2800000, guid: c38000fbffed1d243a4a97f1b4c702d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: POST CARBON_01
+    second: {fileID: 2800000, guid: 38648235ee3261c48b41da20c496c0bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PRE CARBON
+    second: {fileID: 2800000, guid: a76329cdcdb84924eb6b74468df12b29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PRE CARBON_01
+    second: {fileID: 2800000, guid: 0ca1bacfb730dee47ae9a73bd7697866, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sediment
+    second: {fileID: 2800000, guid: f9e95b5ad958819488d4ff22b3339b71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sediment_01
+    second: {fileID: 2800000, guid: 5c3c5eabac2e44646ae567bffaebc46c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UF MEMBRANE
+    second: {fileID: 2800000, guid: 27ed494aec421a14ab86c44c94b5b44a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UF MEMBRANE_01
+    second: {fileID: 2800000, guid: d86397fcb7a1ff844b8c45ecf2c489af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: off-white-color-solid-background-1920x1080
+    second: {fileID: 2800000, guid: 553d9c9625afd4e44947ed9ee4ab057e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
