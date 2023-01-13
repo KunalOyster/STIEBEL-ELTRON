@@ -485,8 +485,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -873,8 +873,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -2039,8 +2039,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -2346,7 +2346,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2400,8 +2400,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -2649,8 +2649,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -2822,8 +2822,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -3618,8 +3618,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -4224,8 +4224,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -4415,8 +4415,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -5037,8 +5037,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -5454,8 +5454,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
@@ -6555,8 +6555,8 @@ MonoBehaviour:
   installationRCGallery_Btn_R: {fileID: 21300000, guid: 71dd4ae28f4b175438d3db80ca3cf2f4, type: 3}
   installationRCGallery_Btn: {fileID: 1118077851}
   installationVideoObj: {fileID: 1215315560}
-  installationRCVideo_Btn_W: {fileID: 21300000, guid: f7910ca5988cc4d49adb2f42183b1cce, type: 3}
-  installationRCVideo_Btn_R: {fileID: 21300000, guid: 66035d816b801de4cba30ba893a9e4e2, type: 3}
+  installationRCVideo_Btn_W: {fileID: 21300000, guid: 7c39be92b67cae143ab2501c51ed8f15, type: 3}
+  installationRCVideo_Btn_R: {fileID: 21300000, guid: 527c95f9be2e0b341835e8593b5dc007, type: 3}
   installationRCVideo_Btn: {fileID: 536667662}
   Mrp_price: {fileID: 1166814446}
   MRP_Btn_W: {fileID: 21300000, guid: 41149d2f761aee84eabc067c6dbea271, type: 3}
