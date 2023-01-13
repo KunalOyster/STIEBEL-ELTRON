@@ -6,7 +6,7 @@ RenderTexture:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WPL 23
+  m_Name: RTF-TC
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -15,7 +15,7 @@ RenderTexture:
   m_IsAlphaChannelOptional: 0
   serializedVersion: 5
   m_Width: 540
-  m_Height: 960
+  m_Height: 660
   m_AntiAliasing: 1
   m_MipCount: -1
   m_DepthStencilFormat: 94
