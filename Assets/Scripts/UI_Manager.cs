@@ -22,11 +22,11 @@ public class UI_Manager : MonoBehaviour
     public Sprite functionality_Btn_W, functionality_Btn_R;
     public Button functionality_Btn;
 
-    [Header("Functionality 2")]
-    public GameObject functionality2;
-    //Functionality btn
-    public Sprite functionality_Btn_W2, functionality_Btn_R2;
-    public Button functionality_Btn2;
+    //[Header("Functionality 2")]
+    //public GameObject functionality2;
+    ////Functionality btn
+    //public Sprite functionality_Btn_W2, functionality_Btn_R2;
+    //public Button functionality_Btn2;
 
 
     [Header("Gallery 3 btn")]
@@ -139,7 +139,7 @@ public class UI_Manager : MonoBehaviour
         MRP_Btn.image.sprite = MRP_Btn_W;
         actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
         installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-        functionality_Btn2.image.sprite = functionality_Btn_W2;
+        //functionality_Btn2.image.sprite = functionality_Btn_W2;
 
     }
 
@@ -165,7 +165,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
 
             if (animator_gallery != null)
             {
@@ -186,7 +186,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
         }
         else
         {
@@ -213,7 +213,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
             features_Btn.image.sprite = features_Btn_W;
             gallery_Btn.image.sprite = gallery_Btn_R;
@@ -225,7 +225,7 @@ public class UI_Manager : MonoBehaviour
             installationRCGallery_Btn.image.sprite = installationRCGallery_Btn_W;
             MRP_Btn.image.sprite = MRP_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
             if (animator_gallery != null)
             {
                 if (animator_gallery != null)
@@ -275,7 +275,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
             technicaldetails_Btn.image.sprite = technicaldetails_Btn_R;
             features_Btn.image.sprite = features_Btn_W;
@@ -287,7 +287,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -321,7 +321,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
 
             features_Btn.image.sprite = features_Btn_W;
@@ -334,7 +334,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -361,7 +361,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_R;
@@ -374,7 +374,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -400,7 +400,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(true);
             Product_Img_Gallery.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
@@ -413,7 +413,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_R;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -439,7 +439,7 @@ public class UI_Manager : MonoBehaviour
             installationVideoObj.SetActive(false);
             Product_Img_Gallery.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
@@ -452,7 +452,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -478,7 +478,7 @@ public class UI_Manager : MonoBehaviour
                 }
             }
             functionality.SetActive(true);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
             features.SetActive(false);
             technical_Data.SetActive(false);
             contact_Us.SetActive(false);
@@ -498,7 +498,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -510,47 +510,47 @@ public class UI_Manager : MonoBehaviour
 
 
     // Functionality 2 
-    public void Functionality2()    // functionality image open
-    {
-        if (functionality2.activeInHierarchy == false)
-        {
-            if (animator_gallery != null)
-            {
-                bool isOpen = animator_gallery.GetBool("open");
-                if (isOpen == true)
-                {
-                    animator_gallery.SetBool("open", false);
-                }
-            }
-            functionality2.SetActive(true);
-            functionality.SetActive(false);
-            features.SetActive(false);
-            technical_Data.SetActive(false);
-            contact_Us.SetActive(false);
-            Mrp_price.SetActive(false);
-            installationRecGalleryObj.SetActive(false);
-            actInsGallery.SetActive(false);
-            installationVideoObj.SetActive(false);
-            Product_Img_Gallery.SetActive(false);
+    //public void Functionality2()    // functionality image open
+    //{
+    //    if (functionality2.activeInHierarchy == false)
+    //    {
+    //        if (animator_gallery != null)
+    //        {
+    //            bool isOpen = animator_gallery.GetBool("open");
+    //            if (isOpen == true)
+    //            {
+    //                animator_gallery.SetBool("open", false);
+    //            }
+    //        }
+    //        functionality2.SetActive(true);
+    //        functionality.SetActive(false);
+    //        features.SetActive(false);
+    //        technical_Data.SetActive(false);
+    //        contact_Us.SetActive(false);
+    //        Mrp_price.SetActive(false);
+    //        installationRecGalleryObj.SetActive(false);
+    //        actInsGallery.SetActive(false);
+    //        installationVideoObj.SetActive(false);
+    //        Product_Img_Gallery.SetActive(false);
 
-            productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
-            features_Btn.image.sprite = features_Btn_W;
-            gallery_Btn.image.sprite = gallery_Btn_W;
-            technicaldetails_Btn.image.sprite = technicaldetails_Btn_W;
-            contactUs_Btn.image.sprite = contactUs_Btn_W;
-            installationRCGallery_Btn.image.sprite = installationRCGallery_Btn_W;
-            functionality_Btn.image.sprite = functionality_Btn_W;
-            MRP_Btn.image.sprite = MRP_Btn_W;
-            actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
-            installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
-            functionality_Btn2.image.sprite = functionality_Btn_R2;
-        }
-        else
-        {
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
-            functionality2.SetActive(false);
-        }
-    }
+    //        productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
+    //        features_Btn.image.sprite = features_Btn_W;
+    //        gallery_Btn.image.sprite = gallery_Btn_W;
+    //        technicaldetails_Btn.image.sprite = technicaldetails_Btn_W;
+    //        contactUs_Btn.image.sprite = contactUs_Btn_W;
+    //        installationRCGallery_Btn.image.sprite = installationRCGallery_Btn_W;
+    //        functionality_Btn.image.sprite = functionality_Btn_W;
+    //        MRP_Btn.image.sprite = MRP_Btn_W;
+    //        actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
+    //        installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
+    //        functionality_Btn2.image.sprite = functionality_Btn_R2;
+    //    }
+    //    else
+    //    {
+    //        functionality_Btn2.image.sprite = functionality_Btn_W2;
+    //        functionality2.SetActive(false);
+    //    }
+    //}
 
     public void InstallationRecommendationVideo()    // InstallationRecommendation video open
     {
@@ -573,7 +573,7 @@ public class UI_Manager : MonoBehaviour
             functionality.SetActive(false);
             Product_Img_Gallery.SetActive(false);
             installationRecGalleryObj.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_W;
@@ -586,7 +586,7 @@ public class UI_Manager : MonoBehaviour
             MRP_Btn.image.sprite = MRP_Btn_W;
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_R;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
@@ -616,7 +616,7 @@ public class UI_Manager : MonoBehaviour
             actInsGallery.SetActive(false);
             installationVideoObj.SetActive(false);
             functionality.SetActive(false);
-            functionality2.SetActive(false);
+            //functionality2.SetActive(false);
 
 
             productImgGallery_Btn.image.sprite = productImgGallery_Btn_R;
@@ -629,7 +629,7 @@ public class UI_Manager : MonoBehaviour
             actualInsGal_Btn.image.sprite = actualInsGal_Btn_W;
             installationRCVideo_Btn.image.sprite = installationRCVideo_Btn_W;
             MRP_Btn.image.sprite = MRP_Btn_R;
-            functionality_Btn2.image.sprite = functionality_Btn_W2;
+            //functionality_Btn2.image.sprite = functionality_Btn_W2;
         }
         else
         {
