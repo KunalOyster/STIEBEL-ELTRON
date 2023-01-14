@@ -1189,7 +1189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0758c55d954e95248a42d5c35844fa84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/Stiebel%20EltronSTREAM-5S.mp4
+  url: https://kunaloyster.github.io/video/Stiebel%20EltronSTREAM-5S.mp4
   vidplayer: {fileID: 236234546}
 --- !u!328 &236234546
 VideoPlayer:
