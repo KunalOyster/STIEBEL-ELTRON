@@ -502,8 +502,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &89822999
@@ -753,11 +753,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1789251272}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 792, y: -80}
+  m_AnchoredPosition: {x: 684, y: -80}
   m_SizeDelta: {x: 230, y: 123.4518}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &206853904
@@ -907,8 +907,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &218926248
@@ -1942,8 +1942,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &441886074
@@ -2303,8 +2303,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &545532976
@@ -2552,8 +2552,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &571092048
@@ -2850,8 +2850,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!114 &640118298
@@ -3569,8 +3569,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &871224103
@@ -4097,8 +4097,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1017343646
@@ -4300,8 +4300,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 0}
 --- !u!1 &1022232667
@@ -4633,7 +4633,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1118077849
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4647,7 +4647,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1789251272}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -4801,8 +4801,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1149721046
@@ -5097,8 +5097,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1166814446
@@ -5857,7 +5857,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 301, y: -80}
+  m_AnchoredPosition: {x: 428, y: -80}
   m_SizeDelta: {x: 230, y: 123.4518}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1287488960
@@ -5890,7 +5890,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+    m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -6007,8 +6007,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1328098793
@@ -7782,8 +7782,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1287488958}
-  - {fileID: 1118077849}
   - {fileID: 206853902}
+  - {fileID: 1118077849}
   m_Father: {fileID: 1022232671}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

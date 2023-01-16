@@ -502,8 +502,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &89822999
@@ -1011,8 +1011,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &236350844
@@ -1935,8 +1935,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &441886074
@@ -2328,8 +2328,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &545532976
@@ -2577,8 +2577,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &571092048
@@ -2750,8 +2750,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!114 &640118298
@@ -3469,8 +3469,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &808006997
@@ -4555,8 +4555,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1017343646
@@ -4758,8 +4758,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 0}
 --- !u!1 &1022232667
@@ -5571,8 +5571,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1148538729
@@ -5988,8 +5988,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1166814446
@@ -6781,7 +6781,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+    m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -6898,8 +6898,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1306157007
