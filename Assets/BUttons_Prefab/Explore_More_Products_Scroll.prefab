@@ -1534,10 +1534,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 0}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!1 &8297290778767489859
 GameObject:
