@@ -86,6 +86,8 @@ public class UI_Manager : MonoBehaviour
 
 
 
+
+
     public GameObject info_Panel;                   
    
     
@@ -382,6 +384,11 @@ public class UI_Manager : MonoBehaviour
             Product_Img_Gallery.SetActive(false);
         }
     }
+
+
+
+
+  
 
 
 

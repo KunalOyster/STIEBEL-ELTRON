@@ -7,6 +7,7 @@ public class URLs : MonoBehaviour
 {
 
     public string download_Pdf;
+   
     
 
     public void Dialnumber1()
@@ -20,6 +21,8 @@ public class URLs : MonoBehaviour
         Application.OpenURL("tel://[18002667155]");
     }
 
+
+
     public void DownloadPdf()
     {
 #if PLATFORM_ANDROID
@@ -28,4 +31,6 @@ public class URLs : MonoBehaviour
         Application.OpenURL(download_Pdf);
 #endif
     }
+
+    
 }
