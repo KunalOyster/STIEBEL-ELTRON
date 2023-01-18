@@ -2696,7 +2696,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d5f6376fb925024f8b3552f913e4f3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/TANKLESS-WATER-HEATERS-PRODUCT-MRP-BOOK2022-Phases-3-PE.pdf
+  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/To-Host/CK20Premium_Price.pdf
 --- !u!114 &741929197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5520,7 +5520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d5f6376fb925024f8b3552f913e4f3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/technical-data.product.pdf
+  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/To-Host/CK20Premium_Technical_Data.pdf
 --- !u!1 &1256880975
 GameObject:
   m_ObjectHideFlags: 0

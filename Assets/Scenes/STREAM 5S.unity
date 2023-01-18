@@ -297,7 +297,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f15cc36f8a177064fb137a2f672569a7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c8336bf0ae7ac22478f6e480cfc2fb58, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1770,7 +1770,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "M.R.P. (INR)  \u20B9 65,451.00"
+  m_Text: "M.R.P. (INR)  \u20B9 37,120.00 "
 --- !u!222 &510365530
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4013,7 +4013,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0573638de64022a49bed8c115d6a9a62, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 96bb2ba0be936cc49b4e1291c47b0093, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9056,7 +9056,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: acfc7e248958a144bb5c0e2891deeecb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c5fd1c2798a89a44dbe0439386f481a9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
