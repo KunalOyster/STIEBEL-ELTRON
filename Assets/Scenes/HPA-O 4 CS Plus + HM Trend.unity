@@ -367,7 +367,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f15cc36f8a177064fb137a2f672569a7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 25d9e4ce3fdf2924293c1e64d959a9ba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -587,7 +587,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -611,8 +611,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &89822999
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -1120,8 +1120,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &236350844
@@ -2020,7 +2020,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -2044,8 +2044,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &441886074
@@ -2356,7 +2356,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "M.R.P. (INR)  \u20B9 65,451.00"
+  m_Text: "M.R.P. (INR)  \u20B9 790,276.00"
 --- !u!222 &510365530
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2540,7 +2540,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -2564,8 +2564,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &545532976
@@ -2789,7 +2789,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -2813,8 +2813,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &571092048
@@ -3002,7 +3002,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -3026,8 +3026,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!114 &640118298
@@ -3602,7 +3602,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d5f6376fb925024f8b3552f913e4f3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/TANKLESS-WATER-HEATERS-PRODUCT-MRP-BOOK2022-Phases-3-PE.pdf
+  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/HPA04_Price.pdf
+  redirectLink: 
 --- !u!114 &741929197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3810,7 +3811,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 385, y: -91}
+  m_AnchoredPosition: {x: 362, y: -91}
   m_SizeDelta: {x: 420, y: 86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &797980981
@@ -3877,7 +3878,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d4e27e77d775afa4b8562c61e0bbf47e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de12304776030834ab9195f2a89fec5b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3956,7 +3957,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -3980,8 +3981,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &808006997
@@ -5233,7 +5234,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -5257,8 +5258,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1017343646
@@ -5436,7 +5437,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -5460,8 +5461,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 0}
 --- !u!1 &1022232667
@@ -6250,7 +6251,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -6274,8 +6275,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1148538729
@@ -6667,7 +6668,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -6691,8 +6692,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1166814446
@@ -7342,7 +7343,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d5f6376fb925024f8b3552f913e4f3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/technical-data.product.pdf
+  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/HPA04_technical-data.product.pdf
+  redirectLink: 
 --- !u!1 &1232618385
 GameObject:
   m_ObjectHideFlags: 0
@@ -7433,6 +7435,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/TANKLESS-WATER-HEATERS-PRODUCT-MRP-BOOK2022-Phases-3-PE.pdf
+  redirectLink: 
 --- !u!114 &1258508356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7711,7 +7714,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7758,7 +7761,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -7782,8 +7785,8 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1289552818
@@ -8265,7 +8268,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8ff4a5f88f5949845837118b217e9599, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5af2e4181c9675149a3b06564f55b866, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8988,7 +8991,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "M.R.P. (INR)  \u20B9 65,451.00"
+  m_Text: "M.R.P. (INR)  \u20B9 430,059.00"
 --- !u!222 &1527532611
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9675,6 +9678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: 
+  redirectLink: 
 --- !u!1 &1708342746
 GameObject:
   m_ObjectHideFlags: 0
@@ -11338,7 +11342,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d5f6376fb925024f8b3552f913e4f3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/TANKLESS-WATER-HEATERS-PRODUCT-MRP-BOOK2022-Phases-3-PE.pdf
+  download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/HPA04_Price.pdf
+  redirectLink: 
 --- !u!114 &1946657978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12079,6 +12084,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: 
+  redirectLink: 
 --- !u!1 &2046586028
 GameObject:
   m_ObjectHideFlags: 0
@@ -12634,7 +12640,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: acfc7e248958a144bb5c0e2891deeecb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8ccc3ab57a2674942ac3236774f2bd76, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

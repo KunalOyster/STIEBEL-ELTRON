@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 /// <summary>
@@ -7,8 +8,12 @@ public class URLs : MonoBehaviour
 {
 
     public string download_Pdf;
-   
+    public string redirectLink;
+
+
     
+
+
 
     public void Dialnumber1()
     {
@@ -22,6 +27,13 @@ public class URLs : MonoBehaviour
     }
 
 
+
+//    public void RedirectLink()
+//    {
+//#if (UNITY_WEBGL)
+//        Application.OpenURL(redirectLink);
+//#endif
+//    }
 
     public void DownloadPdf()
     {

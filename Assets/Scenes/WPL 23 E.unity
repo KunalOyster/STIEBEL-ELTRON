@@ -674,7 +674,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -698,13 +698,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &89822999
 GameObject:
@@ -1135,7 +1131,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -1159,13 +1155,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &258674265
 GameObject:
@@ -2143,7 +2135,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -2167,13 +2159,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &441886074
 GameObject:
@@ -2694,7 +2682,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -2718,13 +2706,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &545532976
 GameObject:
@@ -2947,7 +2931,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -2971,13 +2955,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &571092048
 GameObject:
@@ -3163,7 +3143,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -3187,13 +3167,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!114 &640118298
 MonoBehaviour:
@@ -3479,10 +3455,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &741929194
 GameObject:
@@ -3537,6 +3509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/WPL23EPrice.pdf
+  redirectLink: 
 --- !u!114 &741929197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3850,7 +3823,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d4e27e77d775afa4b8562c61e0bbf47e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 774a67001f6935843870ada62b3574c9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3986,7 +3959,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -4010,13 +3983,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &859661742
 GameObject:
@@ -4639,7 +4608,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -4663,13 +4632,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1016687164
 GameObject:
@@ -4916,7 +4881,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -4940,13 +4905,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!1 &1022232667
 GameObject:
@@ -5745,7 +5706,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -5769,13 +5730,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1149721046
 GameObject:
@@ -6045,7 +6002,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -6069,13 +6026,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1166814446
 GameObject:
@@ -6376,10 +6329,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!1 &1196864924
 GameObject:
@@ -6972,6 +6921,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/WPL23Etechnical-data.product.pdf
+  redirectLink: 
 --- !u!1 &1270880549
 GameObject:
   m_ObjectHideFlags: 0
@@ -7156,7 +7106,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7203,7 +7153,7 @@ MonoBehaviour:
   technical_Details_Close: {fileID: 1573832859}
   technical_Data: {fileID: 1573832859}
   technicaldetails_Btn_W: {fileID: 21300000, guid: f260cd51f9e05ee4caab65839c67aff2, type: 3}
-  technicaldetails_Btn_R: {fileID: 21300000, guid: 8c719aff3b10cf44596841cf8de6ea02, type: 3}
+  technicaldetails_Btn_R: {fileID: 21300000, guid: 461e3f933d3808d4eba5b0ea94aa89ce, type: 3}
   technicaldetails_Btn: {fileID: 396970428}
   installationRecGalleryObj: {fileID: 355252091}
   installationRCGallery_Btn_W: {fileID: 21300000, guid: 76ac621c0d8497943be81335a9b2821f, type: 3}
@@ -7227,13 +7177,9 @@ MonoBehaviour:
   actualInsGal_Btn_R: {fileID: 21300000, guid: c0b9ad8215357f64692623bccb120b25, type: 3}
   actualInsGal_Btn: {fileID: 206853904}
   Product_Img_Gallery: {fileID: 2016685134}
-  productImgGallery_Btn_W: {fileID: 21300000, guid: 31fa608496ff5f240bfeb5efb9cc1aa3, type: 3}
-  productImgGallery_Btn_R: {fileID: 21300000, guid: d8fb92641928dd34e93d41535c346cbc, type: 3}
+  productImgGallery_Btn_W: {fileID: 21300000, guid: 5ba874df9d273d14b8448bdee2280f28, type: 3}
+  productImgGallery_Btn_R: {fileID: 21300000, guid: 8cbe418bc15be2b48b5a5c751c089bb3, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1321410662
 GameObject:
@@ -7288,6 +7234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/WPL23EPrice.pdf
+  redirectLink: 
 --- !u!114 &1321410665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7900,10 +7847,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!1 &1402798725
 GameObject:
@@ -8807,10 +8750,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!114 &1593547917
 MonoBehaviour:
@@ -9223,10 +9162,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!1 &1626167725
 GameObject:
@@ -9445,6 +9380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: 
+  redirectLink: 
 --- !u!1 &1657362329
 GameObject:
   m_ObjectHideFlags: 0
@@ -10214,10 +10150,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!114 &1790230878
 MonoBehaviour:
@@ -10567,10 +10499,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!114 &1865253993
 MonoBehaviour:
@@ -10762,10 +10690,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!114 &1883238282
 MonoBehaviour:
@@ -11078,10 +11002,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 996486084}
 --- !u!114 &1919402658
 MonoBehaviour:
@@ -11267,6 +11187,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/SE-INDIA/New/WPL23EPrice.pdf
+  redirectLink: 
 --- !u!114 &1998578492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11457,10 +11378,6 @@ MonoBehaviour:
   productImgGallery_Btn_W: {fileID: 21300000, guid: 4e4b78350a2db8d458c81bc616f287bb, type: 3}
   productImgGallery_Btn_R: {fileID: 21300000, guid: 84a29d420af68ee4a90c2d653cd851e9, type: 3}
   productImgGallery_Btn: {fileID: 1287488960}
-  View_More_Products_Scroll: {fileID: 0}
-  View_More_Products_Scroll_Btn_W: {fileID: 0}
-  View_More_Products_Scroll_Btn_R: {fileID: 0}
-  View_More_Products_Scroll_Btn: {fileID: 0}
   info_Panel: {fileID: 0}
 --- !u!114 &2011749625
 MonoBehaviour:
@@ -11894,6 +11811,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: 
+  redirectLink: 
 --- !u!1 &2046586028
 GameObject:
   m_ObjectHideFlags: 0
@@ -12765,7 +12683,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 427078087988329224, guid: 633104839843c644f989897f742dddef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 427078087988329224, guid: 633104839843c644f989897f742dddef, type: 3}
       propertyPath: m_LocalRotation.w
