@@ -50,4 +50,5 @@ public class VideoProgressBar : MonoBehaviour, IDragHandler, IPointerDownHandler
         var frame = videoPlayer.frameCount * pct;
         videoPlayer.frame = (long)frame;
     }
+
 }

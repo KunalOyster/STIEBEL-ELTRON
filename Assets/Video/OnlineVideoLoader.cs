@@ -22,7 +22,6 @@ public class OnlineVideoLoader : MonoBehaviour
     //    {
     //        Play();
     //    }
-
     //}
 
    public void Play()

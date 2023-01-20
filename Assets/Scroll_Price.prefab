@@ -476,6 +476,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/TANKLESS-WATER-HEATERS-PRODUCT-MRP-BOOK2022-Phases-3-PE.pdf
+  redirectLink: 
 --- !u!1 &8118535904454860144
 GameObject:
   m_ObjectHideFlags: 0
@@ -936,6 +937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   download_Pdf: https://oystertechprojects.in/oysterproject/132ARCtest/TANKLESS-WATER-HEATERS-PRODUCT-MRP-BOOK2022-Phases-3-PE.pdf
+  redirectLink: 
 --- !u!1 &8118535904929584637
 GameObject:
   m_ObjectHideFlags: 0
