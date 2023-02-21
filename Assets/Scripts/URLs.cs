@@ -11,10 +11,6 @@ public class URLs : MonoBehaviour
     public string redirectLink;
 
 
-    
-
-
-
     public void Dialnumber1()
     {
         Application.OpenURL("tel://[2067480909]");
@@ -28,21 +24,32 @@ public class URLs : MonoBehaviour
 
 
 
-//    public void RedirectLink()
-//    {
-//#if (UNITY_WEBGL)
-//        Application.OpenURL(redirectLink);
-//#endif
-//    }
+    //    public void RedirectLink()
+    //    {
+    //#if (UNITY_WEBGL)
+    //        Application.OpenURL(redirectLink);
+    //#endif
+    //    }
+
+
 
     public void DownloadPdf()
     {
-#if PLATFORM_ANDROID
-        Application.OpenURL(download_Pdf);
+
+
+#if UNITY_WEBGL && !UNITY_EDITOR
+        Nfynt.NPlugin.OpenURLInSameTab(download_Pdf);
 #else
-        Application.OpenURL(download_Pdf);
+        Nfynt.NPlugin.OpenURL(download_Pdf);
 #endif
+
+
+        //#if PLATFORM_ANDROID
+        //        Application.OpenURL(download_Pdf);
+        //#else
+        //        Application.OpenURL(download_Pdf);
+        //#endif
     }
 
-    
+
 }
