@@ -14,6 +14,7 @@ public class OnlineVideoLoader : MonoBehaviour
         vidplayer = GetComponent<VideoPlayer>();
         vidplayer.url = url;
         audios = GetComponent<AudioSource>();
+        vidplayer.prepareCompleted += Play;
     }
 
     // Update is called once per frame
@@ -25,10 +26,11 @@ public class OnlineVideoLoader : MonoBehaviour
     //    }
     //}
 
-   public void Play()
-   {
+    public void Play(VideoPlayer vp)
+    {
         vidplayer.Play();
-        audios.Play(0);
+        Debug.Log("Playing an audio");
+        audios.Play();
         vidplayer.isLooping = true;
-   }
+    }
 }
